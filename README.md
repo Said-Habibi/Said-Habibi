@@ -62,29 +62,7 @@ fun_fact: Gaming is not just a hobby, it's research for game development! 🎮
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Said-Habibi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Said-Habibi&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" height="170"/>
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Said-Habibi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF" alt="Top Languages" height="170"/>
-
-</div>
-
----
-
-## 🎮 Gaming & Hobbies
-
-<div align="center">
-
-```
-🎮 Gaming is my passion and inspiration for game development!
-🎯 I believe every great game developer was once a great gamer.
-🚀 Let's turn passion into profession!
-```
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Said-Habibi&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" height="180"/>
 
 </div>
 
@@ -96,6 +74,33 @@ fun_fact: Gaming is not just a hobby, it's research for game development! 🎮
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
+</div>
+
+---
+
+## 🎮 Gaming & Hobbies
+
+<div align="center">
+
+| 🎮 Gaming                  | � Goal                        | 🚀 Mission                    |
+| -------------------------- | ----------------------------- | ----------------------------- |
+| My passion and inspiration | Become a great game developer | Turn passion into profession! |
+
+</div>
+
+---
+
+## � My Journey
+
+<div align="center">
+
+```
+📚 Currently: Learning Flutter & Dart
+🎓 Status: University Student
+🎮 Dream: Create amazing games
+💡 Philosophy: Every expert was once a beginner
+```
+
 </div>
 
 ---
